@@ -6,3 +6,6 @@
 .cabecalho{
     width: 30%;
 }
+.cabecalho{
+    position: relative;left: 1000;
+}
