@@ -1,14 +1,6 @@
-.cabecalho {
-
-
-}
-
-.cabecalho{
-    width: 30%;
-}
 
 .cabecalho {
-    height: 100px;
+    height: 10px;
     width: 100px;
     position: absolute;
     top: 50px;
