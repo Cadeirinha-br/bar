@@ -9,5 +9,8 @@
 
 .cabecalho {
     height: 100px;
-    width: 1000px;
+    width: 100px;
+    position: absolute;
+    top: 50px;
+    left: 100px; 
 }
