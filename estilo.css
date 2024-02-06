@@ -1,8 +1,8 @@
 
 .cabecalho {
-    height: 30%;
-    width: 860%;
+    height: 30px;
+    width: 860px;
     position: absolute;
-    top: 20%;
-    left: 1000%; 
+    top: 20px;
+    left: 1000px; 
 }
